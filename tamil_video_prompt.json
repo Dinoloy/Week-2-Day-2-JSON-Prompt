@@ -1,0 +1,45 @@
+{
+  "subject": "A young Tamil woman in a traditional Kanchipuram silk saree drawing a white rice-flour kolam in a Chettinad courtyard, with a brass oil lamp and a calm pet cat nearby",
+  "setting": {
+    "place": "Chettinad, Tamil Nadu, India; a traditional merchant house courtyard with carved Burmese teak pillars, Athangudi tiles, lime-plastered walls, and a central open-to-sky courtyard",
+    "era": "Early 20th century, historically inspired",
+    "time_of_day": "early morning during Margazhi, just before sunrise"
+  },
+  "lighting": "Soft, cool, diffused dawn light with a faint mist; warm light from a small brass oil lamp",
+  "camera": {
+    "shot": "wide shot",
+    "lens": "35mm",
+    "angle": "eye level"
+  },
+  "palette": [
+    "muted earth tones",
+    "indigo",
+    "deep maroon",
+    "brass gold",
+    "rice-flour white",
+    "leaf green"
+  ],
+  "style": "photorealistic cinematic documentary, historically grounded details, natural textures, candid everyday moment, restrained color grading",
+  "aspect_ratio": "16:9",
+  "avoid": [
+    "modern objects",
+    "cars",
+    "electric lights",
+    "plastic items",
+    "modern clothing",
+    "generic North Indian architecture",
+    "palace-like fantasy architecture",
+    "oversized religious symbols",
+    "unreadable text",
+    "watermarks",
+    "overly staged postcard composition",
+    "distorted hands",
+    "extra fingers",
+    "duplicate people"
+  ],
+  "motion": {
+    "subject_motion": "The woman carefully draws the kolam with small, natural hand movements; the cat takes a few slow steps; a hanging leaf and the edge of the saree move slightly in the morning breeze; the oil-lamp flame flickers naturally.",
+    "camera_move": "A slow, stable dolly-in from the wide courtyard view toward the woman and kolam, without changing the scene or character appearance.",
+    "duration_seconds": 5
+  }
+}

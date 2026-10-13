@@ -1,0 +1,73 @@
+{
+  "title": "The Eternal Wisdom of Ancient Tamil Nadu",
+  "framework": "SCALE",
+  "prompt": {
+    "Subject": {
+      "description": "A magnificent, historically inspired visual celebrating the intellectual, cultural, spiritual, and architectural heritage of ancient Tamil Nadu. Represent Tamil civilization through the wisdom of Tiruvalluvar and the Tirukkural, ancient Tamil literature, Sangam scholarship, traditional Tamil performing arts, temple architecture, astronomy, mathematics, Siddha medical traditions, agriculture, maritime trade, and ethical philosophy.",
+      "key_elements": [
+        "Tiruvalluvar seated peacefully with palm-leaf manuscripts and a traditional writing stylus",
+        "An ancient Tamil scholar teaching students beneath a large banyan tree",
+        "Palm-leaf manuscripts featuring elegant ancient Tamil script",
+        "Majestic Dravidian temples with towering gopurams, intricately carved stone pillars, and traditional sculptures",
+        "A stone representation of the Tirukkural with the timeless principles of virtue, wealth, and love",
+        "Traditional Bharatanatyam dancers and classical Tamil musicians",
+        "Ancient Tamil artisans, bronze sculptors, farmers, astronomers, and mathematicians",
+        "Traditional Tamil architecture, kolam patterns, classical musical instruments, and bronze lamps"
+      ]
+    },
+    "Composition": {
+      "layout": "One unified panoramic masterpiece with a strong central focal point and naturally interconnected visual layers, rather than separate panels or a collage.",
+      "foreground": "Tiruvalluvar, palm-leaf manuscripts, carved stone inscriptions, a traditional oil lamp, and a beautifully sculpted stone bearing Tamil letters.",
+      "middle_ground": "Tamil scholars, students, traditional artists, mathematicians, healers, and artisans engaged in learning and cultural practices.",
+      "background": "Grand Chola-inspired temple architecture, ancient Tamil settlements, lush paddy fields, the Kaveri River, and traditional sailing ships along the ancient Coromandel Coast.",
+      "visual_flow": "Guide the viewer's eye from the written wisdom of the Tirukkural at the center toward the temples, educational traditions, arts, sciences, and thriving civilization surrounding it.",
+      "balance": "Maintain visual harmony, historical depth, clear silhouettes, and enough negative space for the scene to remain readable."
+    },
+    "Action": {
+      "description": "Depict ancient Tamil civilization as a living world of inquiry, creativity, compassion, and disciplined knowledge. Scholars study palm-leaf texts, teachers pass wisdom to students, artisans craft bronze sculptures, dancers perform classical movements, astronomers observe the night sky, farmers cultivate rice, and merchants sail across the ocean. Tiruvalluvar symbolizes the timeless pursuit of moral conduct, social responsibility, prosperity, and love.",
+      "emotional_message": "Knowledge is sacred, virtue guides life, culture connects generations, and wisdom belongs to all humanity."
+    },
+    "Location": {
+      "setting": "Ancient Tamilakam, the historic Tamil cultural region of southern India, inspired by the landscapes and heritage of the Sangam era and the great Tamil dynasties.",
+      "architectural_references": [
+        "Chola-style Dravidian temple architecture",
+        "Ancient Tamil stone inscriptions and mandapams",
+        "Traditional Tamil homes and learning spaces",
+        "The fertile Kaveri delta",
+        "Ancient maritime trade routes of the Coromandel Coast"
+      ],
+      "historical_accuracy": "Use historically informed details and avoid presenting traditions from different centuries as if they all originated at the same time. Treat later monumental temple architecture as a broader legacy of Tamil civilization."
+    },
+    "Aesthetic": {
+      "art_style": "Epic cinematic historical realism blended with the refinement of traditional South Indian mural painting and intricate stone-carving artistry.",
+      "color_palette": [
+        "Warm sandstone and temple granite",
+        "Antique bronze and muted gold",
+        "Deep maroon and traditional vermilion",
+        "Earthy terracotta",
+        "Lush paddy-field green",
+        "Sunrise amber and soft ivory"
+      ],
+      "lighting": "Golden sunrise illuminating temple towers, gentle rays of light falling on palm-leaf manuscripts, glowing oil lamps, atmospheric mist, and subtle volumetric light.",
+      "textures": "Weathered granite, carved stone, aged palm leaves, woven cotton, bronze patina, traditional pigments, and natural wood.",
+      "mood": "Profound, majestic, scholarly, serene, culturally rich, timeless, and inspirational.",
+      "camera": "Wide cinematic composition, slightly elevated perspective, layered depth, intricate environmental details, and natural atmospheric perspective.",
+      "quality": "Ultra-detailed, museum-quality historical concept art, realistic materials, sophisticated composition, rich but controlled colors, and high-resolution finish.",
+      "aspect_ratio": "16:9 landscape",
+      "text_policy": "Avoid random or distorted text. Do not generate long passages of Tamil writing. Keep any visible inscriptions minimal and authentic-looking; add accurate Tamil quotations or titles during post-production."
+    }
+  },
+  "negative_prompt": [
+    "Modern buildings, skyscrapers, cars, electric lights, and contemporary clothing",
+    "Fantasy castles or unrelated architectural styles",
+    "North Indian temple architecture replacing Dravidian architecture",
+    "Random religious symbols or historically inaccurate iconography",
+    "Modern printed books, laptops, and digital devices",
+    "Distorted faces, extra limbs, malformed hands, and duplicated people",
+    "Unreadable oversized text, gibberish Tamil letters, and incorrect Tirukkural quotations",
+    "Overcrowded composition, disconnected panels, excessive visual clutter",
+    "Cartoonish rendering, oversaturated colors, artificial plastic textures",
+    "Colonial-era imagery or anachronistic historical objects"
+  ],
+  "output_goal": "Create a single iconic image that communicates the depth of ancient Tamil knowledge, the grandeur of its temples, the richness of its culture, and the universal ethical philosophy of the Tirukkural. The final artwork should feel like a visual tribute to a civilization whose wisdom continues to inspire the world."
+}

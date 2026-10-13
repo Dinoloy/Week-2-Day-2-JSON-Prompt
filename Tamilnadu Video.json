@@ -1,0 +1,150 @@
+{
+  "title": "The Eternal Wisdom of Ancient Tamil Nadu",
+  "framework": "SCALE",
+  "video_type": "Cinematic historical cultural documentary",
+  "duration_seconds": 60,
+  "aspect_ratio": "16:9",
+  "frame_rate": "24 fps",
+  "prompt": {
+    "Subject": {
+      "description": "A cinematic journey into ancient Tamilakam, celebrating the intellectual brilliance, cultural richness, architectural grandeur, and ethical philosophy of Tamil civilization.",
+      "primary_subject": "Tiruvalluvar, the revered Tamil poet and philosopher, representing the timeless wisdom of the Tirukkural.",
+      "key_elements": [
+        "Tiruvalluvar composing verses on palm-leaf manuscripts",
+        "Ancient Tamil scholars teaching students beneath banyan trees",
+        "Palm-leaf manuscripts and Tamil-Brahmi-inspired inscriptions",
+        "Majestic Dravidian temples with intricate stone carvings",
+        "Traditional Bharatanatyam dancers and classical musicians",
+        "Ancient Tamil astronomers studying the stars",
+        "Artisans creating bronze sculptures and stone carvings",
+        "Farmers cultivating the fertile Kaveri delta",
+        "Traditional sailing ships carrying goods across the Coromandel Coast",
+        "The Tirukkural symbolizing virtue, prosperity, and love"
+      ]
+    },
+    "Composition": {
+      "visual_structure": "A single continuous cinematic narrative with smooth transitions between interconnected scenes, not a slideshow or disconnected montage.",
+      "camera_movement": "Begin with an aerial establishing shot, move through ancient landscapes and temple corridors, transition into intimate close-ups of manuscripts and craftsmanship, and finish with a majestic wide shot of Tamil civilization at sunrise.",
+      "scene_sequence": [
+        {
+          "time": "00-10 seconds",
+          "scene": "The Birth of Wisdom",
+          "visuals": "Aerial view of ancient Tamilakam at sunrise, with mist drifting over the Kaveri River, lush paddy fields, traditional settlements, and a majestic temple rising in the distance.",
+          "camera": "Slow cinematic aerial descent toward the ancient settlement.",
+          "transition": "Golden sunlight gradually reveals the details of the landscape."
+        },
+        {
+          "time": "10-20 seconds",
+          "scene": "Knowledge and Literature",
+          "visuals": "An ancient Tamil scholar carefully inscribes verses onto palm leaves while students listen beneath a banyan tree. Close-ups reveal the stylus, palm-leaf texture, and stone inscriptions.",
+          "camera": "Slow dolly movement followed by detailed macro shots of the writing process.",
+          "transition": "A palm leaf moves gently in the breeze, leading into the next scene."
+        },
+        {
+          "time": "20-30 seconds",
+          "scene": "The Wisdom of Tiruvalluvar",
+          "visuals": "Tiruvalluvar sits in a serene traditional setting, composing profound ethical verses. Palm-leaf manuscripts rest beside him as warm lamplight illuminates his thoughtful expression.",
+          "camera": "Slow circular camera movement followed by a respectful close-up of the manuscripts.",
+          "transition": "The glow of an oil lamp blends into the golden light illuminating a temple."
+        },
+        {
+          "time": "30-40 seconds",
+          "scene": "Temples and Artistic Excellence",
+          "visuals": "The camera glides through an ancient Dravidian temple corridor, revealing sculpted pillars, stone carvings, bronze lamps, artisans at work, and a classical dancer performing graceful movements.",
+          "camera": "Smooth tracking shot with carefully choreographed movement and cinematic depth.",
+          "transition": "The dancer's movement leads naturally into a scene of musicians and craftsmen."
+        },
+        {
+          "time": "40-50 seconds",
+          "scene": "Science, Nature, and Civilization",
+          "visuals": "Astronomers observe the night sky, scholars study geometric patterns, farmers work in green paddy fields, and traditional sailing ships travel across the ancient Tamil maritime trade routes.",
+          "camera": "Elegant tracking shots connecting the stars, the land, and the sea.",
+          "transition": "The stars fade into the first golden rays of sunrise."
+        },
+        {
+          "time": "50-60 seconds",
+          "scene": "An Eternal Legacy",
+          "visuals": "Tiruvalluvar's manuscripts appear in the foreground as the camera pulls back to reveal a magnificent Tamil landscape, monumental temple architecture, scholars, artists, and the rising sun illuminating the entire civilization.",
+          "camera": "Slow cinematic pullback into an expansive panoramic composition.",
+          "ending": "Fade gently to a dark, textured background with the title 'The Eternal Wisdom of Tamil Civilization' and the Tamil phrase 'அறம் • பொருள் • இன்பம்'.",
+          "emotional_effect": "A profound sense of pride, continuity, wisdom, and universal human values."
+        }
+      ]
+    },
+    "Action": {
+      "description": "Bring ancient Tamil civilization to life through subtle, realistic human movements and natural environmental details.",
+      "motion_details": [
+        "Palm leaves sway gently in the breeze",
+        "Oil-lamp flames flicker naturally",
+        "Scholars write and turn palm-leaf manuscripts carefully",
+        "Temple flags move in the wind",
+        "Dancers perform fluid, controlled classical movements",
+        "Artisans carve stone and shape molten bronze with historically plausible techniques",
+        "River water flows gently beside agricultural fields",
+        "Sailing ships move steadily across the ocean",
+        "Sunlight gradually illuminates temple towers and ancient settlements"
+      ],
+      "pacing": "Begin slowly and contemplatively, build visual grandeur through the middle sequences, and conclude with a powerful but peaceful emotional crescendo.",
+      "continuity": "Preserve consistent character appearances, clothing, architectural materials, lighting direction, geography, and historical atmosphere across all scenes.",
+      "emotional_message": "A civilization is remembered not only for its monuments, but also for its knowledge, compassion, creativity, and wisdom."
+    },
+    "Location": {
+      "setting": "Ancient Tamilakam in southern India, inspired by the literary traditions of the Sangam era, the Kaveri delta, and the broader historical legacy of Tamil dynasties.",
+      "environment": [
+        "Ancient Tamil settlements and traditional learning spaces",
+        "The fertile Kaveri River valley",
+        "Dravidian temple corridors and sculpted stone mandapams",
+        "Traditional Tamil agricultural landscapes",
+        "The Coromandel Coast and ancient maritime trade routes"
+      ],
+      "historical_accuracy": "Distinguish between different historical periods. Use Sangam-era-inspired settings for early literature and social life, and later Chola-inspired architecture only in scenes representing the broader development of Tamil civilization. Avoid implying that all elements existed simultaneously."
+    },
+    "Aesthetic": {
+      "visual_style": "Epic cinematic historical realism combined with traditional South Indian mural art, fine sculptural details, and museum-quality historical production design.",
+      "color_palette": [
+        "Antique bronze",
+        "Warm sandstone",
+        "Temple granite grey",
+        "Deep maroon",
+        "Earthy terracotta",
+        "Lush paddy-field green",
+        "Golden sunrise amber"
+      ],
+      "lighting": "Natural golden-hour sunlight, soft volumetric rays, realistic oil-lamp illumination, atmospheric mist, and balanced cinematic shadows.",
+      "camera_language": "Wide establishing shots, slow dolly movements, controlled tracking shots, detailed close-ups, subtle crane movements, and a grand final pullback.",
+      "motion_quality": "Smooth, physically plausible movement with stable geometry, natural body mechanics, realistic cloth simulation, and no abrupt camera jumps.",
+      "sound_design": {
+        "music": "An original orchestral score blended with traditional Tamil musical influences, including veena, yaazh-inspired strings, flute, mridangam, and restrained percussion.",
+        "ambient_sounds": [
+          "Gentle river water",
+          "Birds at sunrise",
+          "Palm leaves rustling",
+          "Subtle temple bells",
+          "Stylus scratching on palm leaves",
+          "Traditional workshop sounds",
+          "Ocean waves and distant sailing-ship ambience"
+        ],
+        "voiceover": {
+          "language": "Tamil",
+          "style": "Deep, warm, dignified, reflective, and documentary-like",
+          "script": "காலத்தை வென்ற அறிவு... உலகிற்கு அறத்தை உணர்த்திய சிந்தனை... கல்லிலும் கலையிலும் வாழும் பண்பாடு... மனித வாழ்விற்கு வழிகாட்டும் திருக்குறள்... இதுவே தமிழின் தொன்மை. இதுவே தமிழின் பெருமை. இதுவே உலகிற்கான தமிழின் ஞானம்.",
+          "delivery": "Measured narration with meaningful pauses and clear Tamil pronunciation."
+        }
+      },
+      "text_policy": "Generate no random text or malformed Tamil lettering. Add the title, accurate Tamil phrases, subtitles, and Tirukkural quotations during editing for typographic accuracy.",
+      "quality": "High-detail cinematic production, realistic textures, consistent characters, natural lighting, smooth transitions, immersive sound design, and professional documentary color grading."
+    }
+  },
+  "negative_prompt": [
+    "Modern buildings, cars, smartphones, electric lighting, and contemporary clothing",
+    "Fantasy castles and unrelated architectural traditions",
+    "Historically inaccurate mixtures of costumes, temple styles, and technologies",
+    "Distorted faces, malformed hands, extra fingers, duplicate people, or unnatural body movement",
+    "Shaky cameras, flickering textures, warped pillars, melting structures, and inconsistent characters",
+    "Random Tamil text, gibberish inscriptions, and fabricated Tirukkural quotations",
+    "Overly saturated colors, cartoon rendering, artificial plastic surfaces, and excessive visual effects",
+    "Fast cuts, abrupt transitions, excessive slow motion, and distracting camera movements",
+    "Inappropriate depictions of sacred spaces or sensationalized religious imagery"
+  ],
+  "output_goal": "Produce a visually breathtaking 60-second cinematic film that honors ancient Tamil knowledge, literature, philosophy, culture, temples, arts, and scientific traditions. The result should feel like a premium historical documentary trailer that inspires cultural appreciation and communicates the universal relevance of Tamil wisdom to audiences worldwide."
+}
